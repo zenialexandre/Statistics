@@ -1,2 +1,2 @@
 # StatisticsBasics
-To store some learning about Statisticas + Python
+To store some learning about Statistics + Python
