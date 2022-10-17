@@ -1,2 +1,2 @@
-# Statistics
-To store some learning about Statistics + Python
+# Data Science
+Data Science study with Python
