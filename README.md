@@ -1,2 +1,2 @@
-# Data Science
-Data Science study with Python
+# data-science
+Data Science study with Python.
